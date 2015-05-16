@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-f8d180b4bb2d0dfda4eb40b3f7cdaae0f21cebf8.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-3ceaa522d7ff929521c7eba49edfa4b3ab38d1f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-7b65f936434f5de54e9c4f2cfecc52dce20fce15.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-7ecbde073c15095c1e86b9e5669977425137834a.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-3e72a9272d112d5660c2a6c4c09e1fbd25b1751e.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-28a07b1249e0ed20ef53857cfee7f34f50bad916.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-c8a33ae65be1631a03745797b5c87dbf0d174957.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-1725c52aaa60ad5fc8882f37fd7526f871848789.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-f2f6440db799867ee783ce536101c2d67720dab2.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-d994932d26d884132f48de88a5d97713a93ca43a.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-bcfa3c8e96852f43092c8685c0fc8ee429b5dd26.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-b4371686f8d814a6f287befd08bc0126da5960cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-0f4da2aa68cb03ce929841f7e484ea68a6168fc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-c95e6d2e7c00b24732a2a762957e54b4cc3e83cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-ede93c425af396c99e06a23e3419beb25067756c.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-e576839b5e42576beb8fe87d2da09927bdeef343.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-d9499f89a210d88e751e572b514f5ad9396327c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-b82cc5e536d32dedaa3f7498d00757fb3837ce4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-eae9dec85855571f2eea26416e8dd4efeca85e3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-fbf265b26dddbb449cd5260d9b136d7d76ad1aff.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-af962881ec9170c1f8bdc18c7d69bd5b523ee345.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\classes-8ecbab385ad178ad4262c31b863f8b2222490473.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationUpdates\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-c2ca5c99021c82b50df6247bf5fb94bd85eb7bfd.jar" />
+    </item>
+
+</items>
